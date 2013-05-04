@@ -1,0 +1,14 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.github.tauonico</groupId>
+  <artifactId>WebSftp</artifactId>
+  <packaging>war</packaging>
+  <version>0.0.1</version>
+  
+   	<developers>
+    	<developer>
+      		<id>tauonico</id>
+      		<name>Giulio D'Ambrosi</name>
+    	</developer>
+ 	</developers>
+</project>
